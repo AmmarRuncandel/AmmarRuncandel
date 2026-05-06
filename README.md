@@ -217,14 +217,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarRuncandel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e2e8f0&ring_color=7c3aed" alt="GitHub Stats" width="49%" />
+  <a href="https://github.com/AmmarRuncandel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarRuncandel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" width="49%" />
+  </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarRuncandel&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=a0aec0&sideNums=7c3aed&currStreakNum=06b6d4" alt="GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarRuncandel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0&langs_count=10" alt="Top Languages" width="49%" />
+  <a href="https://github.com/AmmarRuncandel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarRuncandel&layout=compact&theme=tokyonight&hide_border=true&hide_title=false" alt="Top Languages" width="49%" />
+  </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmmarRuncandel&theme=tokyonight&utcOffset=7" alt="Productive Time" width="49%" />
 </div>
 
