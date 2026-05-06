@@ -43,9 +43,9 @@
 | | |
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> | Kandidat **Google Student Ambassador 2026** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> | **Manager "Team 212"** — Tim 5 orang, proyek akademik & layanan teknis |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> | **Manager "Team 212"** Tim 5 orang, proyek akademik & layanan teknis |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> | Fokus ekosistem **Next.js, React & Tailwind CSS** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> | Mahasiswa **Informatika Semester 4** — Universitas Siliwangi |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> | Mahasiswa **Informatika Semester 4** Universitas Siliwangi |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="16"/> | Beasiswa **Pijak AI x IBM SkillsBuild** · Peserta **DevFest Bandung 2025** |
 | <img src="https://simpleicons.org/icons/gmail.svg" width="16"/> | **luthfiazzufar2@gmail.com** |
 | <img src="https://simpleicons.org/icons/googlemaps.svg" width="16"/> | **Tasikmalaya, Jawa Barat, Indonesia** |
