@@ -6,17 +6,17 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Currently a 4th-semester Informatics student at **Siliwangi University**.
-- 💻 I focus on building robust and scalable web applications.
-- 🚀 Deeply interested in **Next.js, React, and Tailwind CSS** ecosystem.
-- 📊 Always eager to learn about market analysis, investment, and crypto trading.
-- 🎮 When I'm not coding, you can find me enjoying specialty coffee or playing HoYoverse games.
+- Currently a 4th-semester Informatics student at **Siliwangi University**.
+- I focus on building robust and scalable web applications.
+- Deeply interested in **Next.js, React, and Tailwind CSS** ecosystem.
+- Always eager to learn about market analysis, investment, and crypto trading.
+- When I'm not coding, you can find me enjoying specialty coffee or playing HoYoverse games.
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" alt="Frontend Frameworks" />
@@ -26,7 +26,7 @@
 
 <br/>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmmarRuncandel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ammar's GitHub Stats" width="48%" />
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 🐍 Contribution Graph (The Green Dots Magic)
+## Contribution Graph (The Green Dots Magic)
 
 <!-- Bagian ini membutuhkan GitHub Actions (lihat panduan di Langkah 4) -->
 <div align="center">
